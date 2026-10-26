@@ -2,7 +2,7 @@
 
 **Proyecto:** Construcción de Bitácora Web (HTML5) - ADSO
 **Ficha:** 3381732
-**Fecha:** [Pon la fecha de hoy, ej: 20 de Octubre de 2026]
+**Fecha:** 26 de Octubre de 2026
 
 ## 1. Integrantes del Equipo y Roles
 *   **Karen Dayana Villamizar Reyes** - *Líder del proyecto y Desarrolladora*
